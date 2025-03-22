@@ -1,16 +1,36 @@
-## Hi there 👋
+<a href="https://github.com/Rifuzada">
+<img align=left src="https://img.shields.io/static/v1?label=Overview&message=Rifuzada&color=b11818&style=for-the-badge&logo=GitHub">
+</a>
+<meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
+<br>
+<br>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Light.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Light.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Light.svg"></code>
+<br>
+<br>
 
-<!--
-**cursebearer/cursebearer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+from Rifuzada import Desenvolvedor
 
-Here are some ideas to get you started:
+function Rifuzada() {
+    let nome = "Rafael";
+    let area = "Web FullStack e SAP";
+    let trabalho = "???";
+    let local = "Joinville - Sc";
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function Skills(Rifuzada) {
+    let linguagens = ["Js", "Sql"];
+    let frameworks/ferramentas = ["Next.js", "React.js", "Docker", "Postgres"]
+    let aprendendo = ["Ts", "Jest", "SAP/ABAP"];
+}
+```
+
+<a href="https://github.com/Rifuzada">
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuzada&theme=dark&hide_langs_below=1"/>
+<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true"/>
+</a>
