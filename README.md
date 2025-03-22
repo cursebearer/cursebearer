@@ -1,5 +1,5 @@
 <a href="https://github.com/cursebearer">
-<img align=left src="https://img.shields.io/static/v1?label=Overview&message=Rafael&color=b11818&style=for-the-badge&logo=GitHub">
+<img align=left src="https://img.shields.io/static/v1?label=Overview&message=cursebearer&color=b11818&style=for-the-badge&logo=GitHub">
 </a>
 <meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
 <br>
@@ -31,6 +31,6 @@ function Skills(Rafael) {
 ```
 
 <a href="https://github.com/cursebearer">
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuzada&theme=dark&hide_langs_below=1"/>
-<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true"/>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursebearer&theme=dark&hide_langs_below=1"/>
+<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=cursebearer&theme=dark&show_icons=true"/>
 </a>
