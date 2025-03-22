@@ -10,6 +10,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Light.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Light.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Light.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flutter-Dark.svg"></code>
 <br>
 <br>
 
@@ -24,7 +25,7 @@ function Rafael() {
 }
 
 function Skills(Rafael) {
-    let linguagens = ["Js", "Sql"];
+    let linguagens = ["Js", "Sql, "Flutter/Dart"];
     let frameworks/ferramentas = ["Next.js", "React.js", "Docker", "Postgres"]
     let aprendendo = ["Ts", "Jest", "SAP/ABAP"];
 }
