@@ -14,7 +14,7 @@
 <br>
 
 ```py
-from Rifuzada import Desenvolvedor
+from Rafael import Desenvolvedor
 
 function Rafael() {
     let nome = "Rafael Pavesi";
