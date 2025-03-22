@@ -1,4 +1,4 @@
-<a href="https://github.com/Rifuzada">
+<a href="https://github.com/cursebearer">
 <img align=left src="https://img.shields.io/static/v1?label=Overview&message=Rifuzada&color=b11818&style=for-the-badge&logo=GitHub">
 </a>
 <meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
@@ -16,14 +16,14 @@
 ```py
 from Rifuzada import Desenvolvedor
 
-function Rifuzada() {
-    let nome = "Rafael";
+function Rafael() {
+    let nome = "Rafael Pavesi";
     let area = "Web FullStack e SAP";
     let trabalho = "???";
     let local = "Joinville - Sc";
 }
 
-function Skills(Rifuzada) {
+function Skills(Rafael) {
     let linguagens = ["Js", "Sql"];
     let frameworks/ferramentas = ["Next.js", "React.js", "Docker", "Postgres"]
     let aprendendo = ["Ts", "Jest", "SAP/ABAP"];
