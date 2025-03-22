@@ -25,7 +25,7 @@ function Rafael() {
 }
 
 function Skills(Rafael) {
-    let linguagens = ["Js", "Sql, "Flutter/Dart"];
+    let linguagens = ["Js", "Sql", "Flutter/Dart"];
     let frameworks/ferramentas = ["Next.js", "React.js", "Docker", "Postgres"]
     let aprendendo = ["Ts", "Jest", "SAP/ABAP"];
 }
