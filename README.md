@@ -19,8 +19,8 @@ from Rafael import Desenvolvedor
 
 function Rafael() {
     let nome = "Rafael Pavesi";
-    let area = "Web FullStack e SAP";
-    let trabalho = "???";
+    let area = "SAP ABAP";
+    let trabalho = "NTT Data";
     let local = "Joinville - Sc";
 }
 
