@@ -26,9 +26,9 @@ function Rafael() {
 }
 
 function Skills(Rafael) {
-    let linguagens = ["Js", "Sql", "Flutter/Dart, ABAP"];
+    let linguagens = ["JS", "SQL", "Flutter/Dart, ABAP"];
     let frameworks/ferramentas = ["Next.js", "React.js", "Docker", "Postgres"]
-    let aprendendo = ["SAP/ABAP", "Ts"];
+    let aprendendo = ["SAP/ABAP", "TS"];
 }
 ```
 
