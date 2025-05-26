@@ -4,7 +4,7 @@
 <meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
 <br>
 <br>
-<code><img height="30" src="https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></code>
+<code><img height="30" width="20" src="https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></code>
