@@ -4,7 +4,7 @@
 <meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
 <br>
 <br>
-<code><img height="30" src="https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></code>
@@ -20,15 +20,15 @@ from Rafael import Desenvolvedor
 
 function Rafael() {
     let nome = "Rafael Pavesi";
-    let area = "SAP, ABAP, CPI";
+    let area = "SAP, ABAP, CPI, CDS, RAP";
     let trabalho = "NTT Data";
     let local = "Joinville - Sc";
 }
 
 function Skills(Rafael) {
-    let linguagens = ["Js", "Sql", "Flutter/Dart"];
+    let linguagens = ["Js", "Sql", "Flutter/Dart, ABAP"];
     let frameworks/ferramentas = ["Next.js", "React.js", "Docker", "Postgres"]
-    let aprendendo = ["Ts", "Jest", "SAP/ABAP"];
+    let aprendendo = ["SAP/ABAP", "Ts"];
 }
 ```
 
