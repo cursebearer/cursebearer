@@ -1,10 +1,18 @@
-<a href="https://github.com/cursebearer">
-<img align=left src="https://img.shields.io/static/v1?label=Overview&message=cursebearer&color=b11818&style=for-the-badge&logo=GitHub">
-</a>
-<meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
-<br>
-<br>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/2560px-SAP-Logo.svg.png" alt="SAP Logo"></code>
+<div align="center">
+
+# Rafael Pavesi
+
+**SAP ABAP Developer** · NTT Data · Joinville, SC 🇧🇷
+
+`ABAP` `S/4HANA` `CPI` `CDS` `RAP` `Fiori`
+
+</div>
+
+---
+
+### 🛠 Tech Stack
+
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/2560px-SAP-Logo.svg.png" alt="SAP"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></code>
@@ -12,26 +20,33 @@
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Light.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Light.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flutter-Dark.svg"></code>
-<br>
-<br>
 
-```py
-from Rafael import Desenvolvedor
+---
 
-function Rafael() {
-    let nome = "Rafael Pavesi";
-    let area = "SAP, ABAP, CPI, CDS, RAP";
-    let trabalho = "NTT Data";
-    let local = "Joinville - Sc";
-}
+### 👨‍💻 Sobre mim
 
-function Skills(Rafael) {
-    let linguagens = ["JS", "SQL", ABAP and S/4HANA"];
-    let frameworks/ferramentas = ["Next.js", "React.js", "Docker", "Postgres"]
-}
+```abap
+DATA: lv_nome   TYPE string VALUE 'Rafael Pavesi',
+      lv_cargo  TYPE string VALUE 'Desenvolvedor ABAP',
+      lv_emp    TYPE string VALUE 'NTT Data',
+      lv_local  TYPE string VALUE 'Joinville - SC'.
+
+DATA: lt_skills TYPE TABLE OF string.
+APPEND: 'ABAP'     TO lt_skills,
+        'S/4HANA'  TO lt_skills,
+        'CPI'      TO lt_skills,
+        'CDS'      TO lt_skills,
+        'RAP'      TO lt_skills,
+        'Fiori'    TO lt_skills,
+        'SQL'      TO lt_skills,
+        'JavaScript' TO lt_skills.
 ```
 
-<a href="https://github.com/cursebearer">
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursebearer&theme=dark&hide_langs_below=1"/>
-<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=cursebearer&theme=dark&show_icons=true"/>
-</a>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cursebearer&theme=dark&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursebearer&theme=dark&layout=compact&hide_border=true"/>
+</div>
