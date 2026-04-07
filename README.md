@@ -41,7 +41,10 @@ APPEND: 'ABAP'     TO lt_skills,
         'PostgreSQL'      TO lt_skills,
         'Integration' TO lt_skills,
         'JavaScript' TO lt_skills,
-        'TypeScript' TO lt_skills.
+        'TypeScript' TO lt_skills,
+        'Web3' TO lt_skills,
+        'Ethereum/Base'   TO lt_skills,
+        'Solana'       TO lt_skills.
 ```
 
 ---
