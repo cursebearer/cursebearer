@@ -23,30 +23,25 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### About Me
 
 ```abap
-DATA: lv_nome   TYPE string VALUE 'Rafael Pavesi',
-      lv_cargo  TYPE string VALUE 'Desenvolvedor ABAP',
-      lv_emp    TYPE string VALUE 'NTT Data',
-      lv_local  TYPE string VALUE 'Joinville - SC'.
+DATA: lv_name     TYPE string VALUE 'Rafael Pavesi',
+      lv_role     TYPE string VALUE 'ABAP Developer',
+      lv_company  TYPE string VALUE 'NTT Data',
+      lv_location TYPE string VALUE 'Joinville - SC, Brazil'.
 
 DATA: lt_skills TYPE TABLE OF string.
 APPEND: 'ABAP'     TO lt_skills,
         'S/4HANA'  TO lt_skills,
-        'CPI'      TO lt_skills,
         'CDS'      TO lt_skills,
         'RAP'      TO lt_skills,
         'Fiori'    TO lt_skills,
         'SQL'      TO lt_skills,
-        'JavaScript' TO lt_skills.
+        'PostgreSQL'      TO lt_skills,
+        'Integration' TO lt_skills,
+        'JavaScript' TO lt_skills,
+        'TypeScript' TO lt_skills.
 ```
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cursebearer&theme=dark&show_icons=true&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursebearer&theme=dark&layout=compact&hide_border=true"/>
-</div>
