@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/2560px-SAP-Logo.svg.png" alt="SAP"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
@@ -38,10 +38,9 @@ APPEND: 'ABAP'     TO lt_skills,
         'RAP'      TO lt_skills,
         'Fiori'    TO lt_skills,
         'SQL'      TO lt_skills,
-        'PostgreSQL'      TO lt_skills,
-        'Integration' TO lt_skills,
-        'JavaScript' TO lt_skills,
-        'TypeScript' TO lt_skills,
+        'SAP Integration'      TO lt_skills,
+        'PostgreSQL' TO lt_skills,
+        'Full Stack Web' TO lt_skills,
         'Web3' TO lt_skills,
         'Ethereum/Base'   TO lt_skills,
         'Solana'       TO lt_skills.
