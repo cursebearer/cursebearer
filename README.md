@@ -12,7 +12,7 @@
 
 ### Tech Stack
 
-<code><img height="30" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/2560px-SAP-Logo.svg.png](https://imgs.search.brave.com/Z_Cxlz6ns2FFrUtHXdNibl0iI-8xUM4Goway07b3u1w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDIvU0FQLUxvZ28t/MjAwMC03MDB4Mzk0/LnBuZw)" alt="SAP"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP">
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></code>
